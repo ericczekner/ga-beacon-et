@@ -1,1 +1,2 @@
-[![Analytics](https://github.com/ericczekner/ga-beacon-et/README/UA-80322562-1/PROOFPOINTS)](https://github.com/ericczekner/ga-beacon-et)
+-READ ME
+ +[![Analytics](https://ga-beacon.appspot.com/UA-80038354-1/welcome-page)](https://github.com/ericczekner/ga-beacon-et)
