@@ -12,6 +12,9 @@
 
   ga('create', '{{.Account}}', 'ga-beacon.appspot.com');
   ga('send', 'pageview');
+  
+  var dimensionValue = 'user-ID';
+ga('set', 'dimension1', dimensionValue);
   </script>
 </head>
 
