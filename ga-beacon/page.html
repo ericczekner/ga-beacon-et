@@ -13,6 +13,7 @@
 
   ga('create', '{{.Account}}', 'ga-beacon.appspot.com');
   ga('send', 'pageview');
+  ga('set', 'userId', {{USER_ID}}); // Set the user ID using signed-in user_id.
   ga('set', 'dimension1', dimensionValue);
   
   
